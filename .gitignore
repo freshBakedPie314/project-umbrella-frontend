@@ -1,0 +1,25 @@
+# Build files
+build/
+*.apk
+*.aab
+*.ap_
+*.aab
+
+# Local configuration
+local.properties
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/navEditor.xml
+
+# IDE files
+.idea/
+*.iml
+.gradle/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Misc
+.DS_Store
+captures/
